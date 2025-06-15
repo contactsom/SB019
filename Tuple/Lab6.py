@@ -1,0 +1,5 @@
+myTuple="Raj","Vaishali","Sumitkumar","Hanumant","Sripriya"
+print(myTuple)
+print(type(myTuple))
+length=len(myTuple)
+print(length)
