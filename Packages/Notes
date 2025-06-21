@@ -1,0 +1,34 @@
+OOPS Concept In Python :
+------------------------
+Object Oriented Programming Languages
+
+1. Abstraction
+2. Encapsulation - Package
+3. Polymorphism
+4. Inharitance
+
+How to name the Package
+
+1. It is good practice to provide the package name in three dot.
+    [SomeName]:[SomeName]:[SomeName]
+Ideal Way :
+    [com]:[simplilearn]:[project/module Name]
+
+    Why Package Required ?
+
+
+C Drive
+    StudyMaterial
+        SAM-1
+            PDF[OS.txt],Video
+        SAM-2
+            PDF,Video
+        SAM-3
+            PDF[OS.txt],Video
+        SAM-4
+            PDF,Video
+
+
+
+https://lms.simplilearn.com/nps/session/67c182fc1299550865b5bf27/1750512600000/95683812691/zoom
+

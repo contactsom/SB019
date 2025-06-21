@@ -1,0 +1,9 @@
+from MyModules import *
+import MyModules
+import MyModules as m
+from MyModules import myvar,add
+
+
+Special Variable __name__:
+__main__
+MyModules

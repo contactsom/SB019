@@ -1,0 +1,4 @@
+There are three types of Variable in a Class
+1. Instance Variable [Object Level Variable]
+2. Static Variable [Class Level Variable]
+3. Local Variable [Method Level Variable]
