@@ -1,0 +1,31 @@
+
+Types of Multi Threading
+1. Processed based Multi Threading
+2. Thread Based Multi Threading
+
+There are three ways to create the Thred
+1. Create the Thread Without using any class
+2. Create the Thread by extending Thread class
+3. Create the Thread without extending Thread class
+
+
+Demon Thread :
+A thread which is running in Background
+Ex: main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
