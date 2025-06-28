@@ -1,0 +1,23 @@
+How to install the NumPy
+***********************
+
+Use the Virtual Environment
+1. Create the Virtual Environment
+    python3 -m venv myenv
+
+2. Activate the Virtual Environment
+    source myenv/bin/activate
+
+3. Install numpy
+    pip install numpy
+
+    Message : Successfully installed numpy-2.3.1
+
+
+
+Need to check lab27
+
+
+
+
+
